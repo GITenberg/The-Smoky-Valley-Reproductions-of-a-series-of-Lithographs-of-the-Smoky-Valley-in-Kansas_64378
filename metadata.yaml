@@ -1,0 +1,35 @@
+_repo: The-Smoky-Valley-Reproductions-of-a-series-of-Lithographs-of-the-Smoky-Valley-in-Kansas_64378
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Powell, Minna K.
+    gutenberg_agent_id: '52877'
+    url: http://www.gutenberg.org/2009/agents/52877
+creator:
+  author:
+    agent_name: Sandzén, Birger
+    alias: Sandzen, Birger
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '52876'
+    url: http://www.gutenberg.org/2009/agents/52876
+    wikipedia: https://en.wikipedia.org/wiki/Birger_Sandz%C3%A9n
+description: ''
+gutenberg_issued: '2021-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64378'
+  lccn: '23002206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smoky Hill River Valley (Colo. and Kan.) -- Pictorial works'
+- !lcc 'F590.3'
+- !lcsh 'Lithography'
+- !lcc 'NE'
+- GITenberg
+title: "The Smoky Valley\r\nReproductions of a series of Lithographs of the Smoky\
+  \ Valley in Kansas"
+url: http://www.gutenberg.org/ebooks/64378
