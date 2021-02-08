@@ -5,6 +5,9 @@ contributor:
     agent_name: Powell, Minna K.
     gutenberg_agent_id: '52877'
     url: http://www.gutenberg.org/2009/agents/52877
+covers:
+- cover_type: archival
+  image_path: 64378-h/images/cover.jpg
 creator:
   author:
     agent_name: Sandzén, Birger
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52876
     wikipedia: https://en.wikipedia.org/wiki/Birger_Sandz%C3%A9n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64378#The-Smoky-Valley-Reproductions-of-a-series-of-Lithographs-of-the-Smoky-Valley-in-Kansas
 gutenberg_issued: '2021-01-24'
 gutenberg_type: Text
 identifiers:
